@@ -1,0 +1,201 @@
+#pageWrapper {
+		font: 14px/1.4, sans-serif;
+		width: 1000px;
+		height: 500px;
+		background-color: black;
+		margin-left: auto;
+		margin-right: auto;
+		color: white;
+		
+	}
+
+	#header {
+		background-color: black;
+		color: white;	
+		
+	}
+	#logo {
+		position: relative;
+		top: 10px;
+
+	}
+	footer {
+		position: relative;
+		top: 20px;
+		color: black;
+		width: 100%;
+		background: white;
+		float: left;
+		margin: 0 0 .5% 0;
+		border-radius: 10px;
+		box-shadow: 5px 5px 10px #202020;
+	}
+
+body {
+	background-color: black;
+}
+.nav a {
+	color: white;
+	font-size: 11px;
+	font-weight: bold;
+	padding: 14px 10px;
+	text-transform: uppercase;
+}
+.nav li {
+	display: inline;
+}
+.jumbotron {
+	height: 700px;
+	width: 1000px;
+	background-color: black;
+}
+
+
+
+
+#guideTitle {
+	position: relative;
+	font-size: 50px;
+		
+	}
+
+
+#advents{
+	position: relative;
+	border: 5px solid-white;
+	width: 300px;
+	left: 20px;
+	top: 20px;
+}
+#advents h3 {
+	font-size: 30px;
+}
+#advents p {
+	font-size: 14px
+}
+
+
+#poke {
+	position: relative;
+	font-size: 30px;
+	width: 300px;
+	left: 350px;
+	top: -347px;
+}
+#poke h3 {
+	font-size: 30px;
+	
+}
+#poke p {
+	font-size: 14px;
+	
+}
+
+#riv {
+	position: relative;
+	font-size: 30px;
+	width: 300px;
+	left: 680px;
+	top: -714px;
+}
+#riv h3 {
+	font-size: 30px;
+	
+}
+#riv p {
+	font-size: 14px;
+	
+}
+#hero{
+	position: relative;
+	border: 5px solid-white;
+	width: 300px;
+	left: 20px;
+	top: 90px;
+}
+#hero h3 {
+	font-size: 30px;
+}
+#hero p {
+	font-size: 14px
+}
+
+
+#atlas {
+	position: relative;
+	font-size: 30px;
+	width: 300px;
+	left: 350px;
+	top: -345px;
+}
+#atlas h3 {
+	font-size: 30px;
+	
+}
+#atlas p {
+	font-size: 14px;
+	
+}
+
+#CA {
+	position: relative;
+	font-size: 30px;
+	width: 300px;
+	left: 680px;
+	top: -760px;
+
+}
+#CA h3 {
+	font-size: 30px;
+	
+}
+#CA p {
+	font-size: 14px;
+	
+}
+#hasBackground {
+	background-image: url("images/chaos bg.jpg");
+	background-repeat: no-repeat;
+	background-position: left top;
+	background-size: 500px;
+
+
+}
+#feats {
+	position: relative;
+	top: 20px;
+	left: 10px;
+	padding-bottom: 100px;
+}
+#downloadbutton {
+	position: relative;
+	left: 300px;
+	padding-bottom: 100px;
+
+}
+.landscape {
+	position: relative;
+	left: 20px;
+}
+#map {
+	position: relative;
+	width: 300px;
+	
+}
+
+#table {
+	width: 100%;
+}
+#clickHere{
+	position: relative;
+	left: 340px;
+	padding-bottom: 30px;
+	padding-top: 20px;
+}
+#hasBackground2 {
+	background-image: url("images/order bg.jpg");
+	background-repeat: no-repeat;
+	background-position: right top;
+	background-size: 500px;
+
+
